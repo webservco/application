@@ -1,5 +1,5 @@
 # webservco/application
 
-A PHP component.
+A PHP component/library.
 
 ---
